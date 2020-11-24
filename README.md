@@ -39,3 +39,4 @@ Oleksandrs-MBP:js-automation-wdio oleksandrkhotemskyi$
 ```
 
 # Update this readme file once everything is setup!
+Hello!
